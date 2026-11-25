@@ -1,0 +1,9 @@
+# DB接続情報（パスワードを含むため除外）
+src/main/java/db.properties
+
+# Eclipse・ビルド生成物
+.settings/
+.classpath
+.project
+build/
+target/
